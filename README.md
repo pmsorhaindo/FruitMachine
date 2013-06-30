@@ -8,6 +8,10 @@ Well seeing as for some reason people wanted to see something from this project,
 #### TODO's
 
 1. Implement an OO Framework in js
+  - Utilize RequireJS 
+  - Decide on an inheritance method
+  - Produce produce FrameWork UML diagram.
+
 
 2. Asset Loader System.
 
@@ -21,4 +25,8 @@ Well seeing as for some reason people wanted to see something from this project,
 
 7. Localization abstraction.
 
-8. Feature In Reel Bonus
+8. Animation focused In Reel Bonus
+
+9. Seperate Bonus Screen (full screen pick-a-win)
+
+10. Free spins
